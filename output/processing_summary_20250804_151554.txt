@@ -1,0 +1,22 @@
+# 処理結果サマリー
+
+生成日時: 2025-08-04 15:15:54
+出力ファイル: output/generated_structure_20250804_151554.txt
+
+## 処理したファイル
+
+### ドキュメント
+- 企画：6JNETS記録集_企画案v2.docx ✓ 成功
+- 材料：JNETS記録集_資材化スライド候補.pptx ✓ 成功
+- material.docx ✓ 成功
+- 完成物：【最終校】FFTC_56th_1x8p_0314_P.pdf ✗ エラー
+  エラー: (InvalidRequest) Invalid request.
+Code: InvalidRequest
+Message: Invalid request.
+Inner error: {
+    "code": "InvalidContentLength",
+    "message": "The input image is too large. Refer to documentation for the maximum file size."
+}
+- 完成物：【最終】FUJI_APCCC座談会0921.pdf ✓ 成功
+
+### 音声ファイル
